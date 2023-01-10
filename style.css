@@ -1,3 +1,10 @@
 p{
+    background-position: center;
     color: navy;
+    font-size: large;
+    font-style: oblique;
+}
+h1{
+    font-size: x-large;
+    columns: var(background-position);
 }
